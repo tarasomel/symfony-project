@@ -1,0 +1,2 @@
+[2016-07-20 19:12:15] php.DEBUG: unlink(web/bundles/framework): No such file or directory {"type":2,"file":"C:\\wamp\\www\\test\\massmediagroup\\vendor\\symfony\\symfony\\src\\Symfony\\Component\\Filesystem\\Filesystem.php","line":178,"level":28928} []
+[2016-07-20 19:12:15] php.DEBUG: symlink(): Could not fetch file information(error 3) {"type":2,"file":"C:\\wamp\\www\\test\\massmediagroup\\vendor\\symfony\\symfony\\src\\Symfony\\Component\\Filesystem\\Filesystem.php","line":332,"level":28928} []

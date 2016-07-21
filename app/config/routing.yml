@@ -1,0 +1,7 @@
+blog_front_homepage:
+  path : /
+  defaults:  { _controller: AppBundle:Default:index }
+
+blog_front_article:
+  path : /welcome
+  defaults:  { _controller: AppBundle:Default:congratulate }

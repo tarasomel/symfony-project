@@ -1,0 +1,28 @@
+
+label {
+    float: left;
+}
+
+input, #form_date {
+    margin-bottom: 10px;
+    float: right;
+    clear: none;
+}
+
+div {
+    clear: both;
+}
+
+#form_wrapper {
+    margin: auto;
+    width:300px;
+}
+
+#form_save {
+    float:right;
+}
+
+ul {
+    font-size: 12px;
+    float: right;
+}
